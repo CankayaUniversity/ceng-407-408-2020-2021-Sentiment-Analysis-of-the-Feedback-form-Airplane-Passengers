@@ -5,8 +5,12 @@ OUR ADVISOR:
 
 Dr. Instructor Roya CHOUPANI 
 
+
 TEAM MEMBERS:
 
 İrem ŞAHİNGÖZ - 201611051
 
 Merve ŞİRİN - 201626404
+
+
+You can visit our wiki page =)
