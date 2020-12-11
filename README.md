@@ -1,6 +1,8 @@
 # ceng-407-408-2020-2021-Sentiment-Analysis-of-the-Feedback-from-Airplane-Passengers
+PROJECT:
+
 Sentiment Analysis of the Feedback from Airplane Passengers
-You can visit our wiki page =)
+
 
 OUR ADVISOR:
 
@@ -15,4 +17,4 @@ Merve ŞİRİN - 201626404
 
 
 
-
+You can visit our wiki page =)
