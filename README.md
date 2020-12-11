@@ -1,5 +1,7 @@
 # ceng-407-408-2020-2021-Sentiment-Analysis-of-the-Feedback-from-Airplane-Passengers
 
+** You can visit our wiki page to learn more details about our project =)**
+
 ![airline sentiment analysis](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sentiment-Analysis-of-the-Feedback-form-Airplane-Passengers/blob/main/airlines.jpg)
 
 ### PROJECT:
@@ -26,4 +28,4 @@ Merve ŞİRİN - 201626404
 
 
 
-**You can visit our wiki page =)**
+
