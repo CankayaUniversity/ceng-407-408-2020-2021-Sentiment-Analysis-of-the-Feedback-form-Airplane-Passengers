@@ -30,4 +30,5 @@ Merve ŞİRİN - 201626404
 
 
 
+**You can visit our wiki page to learn more details about our project.**
 
