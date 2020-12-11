@@ -1,5 +1,7 @@
 # ceng-407-408-2020-2021-Sentiment-Analysis-of-the-Feedback-from-Airplane-Passengers
 
+![airline sentiment analysis](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sentiment-Analysis-of-the-Feedback-form-Airplane-Passengers/blob/main/airlines.jpg)
+
 ### PROJECT:
 
 Sentiment Analysis of the Feedback from Airplane Passengers
